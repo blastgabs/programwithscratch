@@ -9,7 +9,7 @@ Scratch é uma linguagem de programação visual, criada pelo MIT, que permite c
 
 Neste trabalho analisaremos as ideias apresentadas nas referêcias citadas, buscando compreender a influência da programação no dia a dia e sua presença em diferentes campos. 
 
-Para isso, usaremos um programa trabalhado anteriormente em sala de aula como base. Demonstrando de forma simples noções fundamentais, como exemplo de variáveis, funções e cálculos, se encaixam na criação de soluções úteis.
+Para isso, usaremos um programa trabalhado anteriormente em sala de aula como base. Demonstrando de forma simples noções fundamentais, como exemplo de variáveis, funções e cálculos, que se encaixam na criação de soluções úteis.
 
 Agora, vamos refazer o seguinte programa já trabalhado em sala usando Scratch:
 
