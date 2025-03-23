@@ -5,7 +5,7 @@ Gabriela Sidrin de Souza, 3° período
 
 # Introdução
 
-Scratch é uma linguagem de programação visual, criada pelo MIT, que permite criar histórias interativas, jogos e animações de forma fácil e intuitiva, especialmente para crianças e iniciantes, através de blocos de código que são arrastados e soltos. 
+Scratch é uma linguagem de programação visual, criada pelo MIT (https://web.mit.edu/), que permite criar histórias interativas, jogos e animações de forma fácil e intuitiva, especialmente para crianças e iniciantes, através de blocos de código que são arrastados e soltos. 
 
 Neste trabalho analisaremos as ideias apresentadas nas referêcias citadas, buscando compreender a influência da programação no dia a dia e sua presença em diferentes campos. 
 
