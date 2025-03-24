@@ -1,4 +1,4 @@
-# Programando com Scratch
+# Programa Usando Scratch
 Trabalho da Disciplina Programação de Computadores - Professora Kadidja
 
 Gabriela Sidrin de Souza, 3° período
