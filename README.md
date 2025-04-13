@@ -22,6 +22,20 @@ salfinal=salbruto+ganhoextra
 print(f"O salário final é: {salfinal:.2f}")
 ```
 
+Acrescentando uma estrutura de decisão que verifica se houve horas extras trabalhadas:
+
+```
+if horastrabalhadas > 0:
+    ganhoextra = valorhoraextra * horastrabalhadas
+    salfinal = salbruto + ganhoextra
+    print(f"Houve ganho extra de R$ {ganhoextra:.2f}")
+else:
+    salfinal = salbruto
+    print("Não houve horas extras.")
+
+print(f"O salário final é: R$ {salfinal:.2f}")
+```
+
 # Instruções
 
 Abra o site https://scratch.mit.edu/ (https://scratch.mit.edu/projects/1146678346/)
